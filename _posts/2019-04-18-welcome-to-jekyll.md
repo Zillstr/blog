@@ -1,29 +1,27 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "A guide to choosing the right airbnb calculator for you"
+date: 2021-07-24T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - airbnb
+  - property investment
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+As a property investor, you might be considering renting out your property through Airbnb or other short-term rental platforms such as VRBO. An airbnb calculator will help you determine how much revenue and/or profit you may make. This article explains the main solutions available to you.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Firstly, you can use Airbnb’s free calculator on their website or Airdna’s free calculator. This might be a good way of getting a ball-park estimate on revenue but from the research I have performed and the discussions I’ve had with experienced hosts, I think it’s fair to say these numbers should be taken with caution as there are many variables that will impact your revenue. 
 
-Jekyll also offers powerful support for code snippets:
+It is worth noting that Airdna offers paid plans that unlocks forecasts for Revenue, Average Daily Rate and occupancy by month. At that time of publishing this article, these plans range from $19.95 to $99.95 per month depending on the number of listings within a market.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+The second approach is to find comparable listings on Airbnb and take note of their rates and occupancy. Taking this approach allows you to select the listings that you’ll be competing against because not every two bedroom apartment in your market will be the same.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+If you are a bit of analysis geek like me then you’ll want to check and compare rates and occupancy across multiple months and listings. This can of course take hours to collate and assess. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+You may then decide to create a spreadsheet to create a financial forecast for the property you’re looking to purchase. Note: there are many good free spreadsheets available online.
+
+This all sounds very time consuming and hard work, right? 
+
+Well, yes it can be, and that’s why I have created [Zillstr][zillstr-home] to automate the process for you.
+
+[zillstr-home]: https://zillstr.com/
