@@ -12,7 +12,7 @@ As a property investor, you might be considering renting out your property throu
 
 Firstly, you can use [Airbnb’s free calculator][airbnb-calculator] on their website or Airdna’s free calculator. This might be a good way of getting a ball-park estimate on revenue but from the research I have performed and the discussions I’ve had with experienced hosts, I think it’s fair to say these numbers should be taken with caution as there are many variables that will impact your revenue. 
 
-It is worth noting that Airdna offers paid plans that unlocks forecasts for Revenue, Average Daily Rate and occupancy by month. At that time of publishing this article, these plans range from $19.95 to $99.95 per month depending on the number of listings within a market.
+It is worth noting that [Airdna][airdna] offers paid plans that unlocks forecasts for Revenue, Average Daily Rate and occupancy by month. At that time of publishing this article, these plans range from $19.95 to $99.95 per month depending on the number of listings within a market.
 
 The second approach is to find comparable listings on Airbnb and take note of their rates and occupancy. Taking this approach allows you to select the listings that you’ll be competing against because not every two bedroom apartment in your market will be the same.
 
@@ -26,3 +26,4 @@ Well, yes it can be, and that’s why I have created [Zillstr][zillstr-home] to 
 
 [zillstr-home]: https://zillstr.com/
 [airbnb-calculator]: https://www.airbnb.co.uk/host/homes
+[airdna]: https://www.airdna.co/
