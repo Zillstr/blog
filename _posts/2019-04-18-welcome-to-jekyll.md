@@ -26,4 +26,4 @@ Well, yes it can be, and that’s why I have created [Zillstr][zillstr-home] to 
 
 [zillstr-home]: https://zillstr.com/
 [airbnb-calculator]: https://www.airbnb.co.uk/host/homes
-[airdna]: https://www.airdna.co/
+[airdna]: https://www.airdna.co/airbnb-calculator
