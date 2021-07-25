@@ -10,7 +10,7 @@ tags:
 
 As a property investor, you might be considering renting out your property through Airbnb or other short-term rental platforms such as VRBO. An airbnb calculator will help you determine how much revenue and/or profit you may make. This article explains the main solutions available to you.
 
-Firstly, you can use Airbnb’s free calculator on their website or Airdna’s free calculator. This might be a good way of getting a ball-park estimate on revenue but from the research I have performed and the discussions I’ve had with experienced hosts, I think it’s fair to say these numbers should be taken with caution as there are many variables that will impact your revenue. 
+Firstly, you can use [Airbnb’s free calculator][airbnb-calculator] on their website or Airdna’s free calculator. This might be a good way of getting a ball-park estimate on revenue but from the research I have performed and the discussions I’ve had with experienced hosts, I think it’s fair to say these numbers should be taken with caution as there are many variables that will impact your revenue. 
 
 It is worth noting that Airdna offers paid plans that unlocks forecasts for Revenue, Average Daily Rate and occupancy by month. At that time of publishing this article, these plans range from $19.95 to $99.95 per month depending on the number of listings within a market.
 
@@ -25,3 +25,4 @@ This all sounds very time consuming and hard work, right? 
 Well, yes it can be, and that’s why I have created [Zillstr][zillstr-home] to automate the process for you.
 
 [zillstr-home]: https://zillstr.com/
+[airbnb-calculator]: https://www.airbnb.co.uk/host/homes
